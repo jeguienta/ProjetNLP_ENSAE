@@ -7,6 +7,7 @@ This study is aimed at predicting the political affiliation of a speeker given h
 Please consult our PDF report for more details.
 
 You will find herebelow a link towards our Colab code. The notebook is entirely self-contained and we detail every step in it.
+https://colab.research.google.com/drive/19AG7zdKmk6IkVjcK9vo0w-6q4GAF_yt4
 
 Please note that it takes around 3 hours to execute
 
