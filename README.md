@@ -2,12 +2,12 @@
 
 ## Identifying political affiliation from Parliamentary Speeches
 
-This study is aimed at predicting the political affiliation of a speech through the use of NLP techniques. Please consult our PDF report for more details.
+This study is aimed at predicting the political affiliation of a speeker given his speech through the use of NLP techniques. 
 
+Please consult our PDF report for more details.
 
-Please find herebelow a link towards our Colab code. The notebook is entirely self-contained in which we datail every step.
+You will find herebelow a link towards our Colab code. The notebook is entirely self-contained and we detail every step in it.
 
-Please note that it takes around ... minutes to execute. 
 
 Concerning the access to the data, we made it available through the following Google Drive link : https://drive.google.com/drive/folders/1Eyu4ielb2hoOgQF3JBzkEhZCgQzfILHp?usp=sharing
 
