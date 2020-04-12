@@ -9,5 +9,5 @@ Please find herebelow a link towards our Colab code. The notebook is entirely se
 
 Please note that it takes around ... minutes to execute. 
 
-Concerning the access to the data, we made it available through the following Google Drive link :
+Concerning the access to the data, we made it available through the following Google Drive link : https://drive.google.com/drive/folders/1Eyu4ielb2hoOgQF3JBzkEhZCgQzfILHp?usp=sharing
 
